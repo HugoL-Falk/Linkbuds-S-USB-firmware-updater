@@ -179,3 +179,4 @@ yusen.exe get mainbatinfo left
 - `yusen.exe` / `hidapi.dll`: third-party Sony HID service tooling, as redistributed in MKobra's **WF-1000XM5-firmware-updater** (originally from the audiospare.com WF-1000XM4 updater).
 - Firmware: official Sony images mirrored at **lzghzr/MDR_Proxy**.
 - MrWalkman's MDR Proxy guide and comments, which pointed me to the USB-C route.
+https://www.mrwalkman.com/p/mdrproxyfwsidegradetool.html

@@ -1,2 +1,4 @@
-waiting...                               GET_MAIN_BATTERY_INFO (LEFT): OK CAPACITY: 100(FG SOC: 100,UI SOC: 100),BattaryVoltage: 4402,ThermistorTemperature: 27.7,Charger State: 2,Charge current: 18,DMP: 0
-waiting...                               GET_MAIN_BATTERY_INFO (RIGHT): OK CAPACITY: 100(FG SOC: 86,UI SOC: 90),BattaryVoltage: 4229,ThermistorTemperature: 25.5,Charger State: 4,Charge current: 18,DMP: 0
+waiting...                               GET_BATTERYVOLTAGE: OK 
+=> 0x112a (4394mV) 
+ GET_CAPACITY: OK 
+=> 90 

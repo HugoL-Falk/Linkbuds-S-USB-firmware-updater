@@ -1,6 +1,6 @@
 # Sony LinkBuds S (WF-LS900N): getting a mismatched single earbud to pair, by flashing firmware over USB-C & analysis of single draining earbud.
 
-**TL;DR:** A left earbud from a different pair would not pair with my right earbud. The case flashed orange 3 times as soon as the lid opened, and the Sony initialize never completed. I reflashed the odd earbud with the official 4.3.1 firmware over USB-C through the Sony charging case, using `yusen.exe` (a Sony HID service tool). After that the normal Sony initialize completed (4 green flashes), and the two buds paired to my phone as one set.
+**TL;DR:** A left earbud from a different pair would not pair with my right earbud. The case flashed orange 3 times as soon as the lid opened, and the Sony initialize never completed. I reflashed the odd earbud with the official 4.3.1 firmware over USB-C through the Sony charging case, using `yusen.exe` (a Sony HID service tool). After that the normal Sony initialize completed (4 green flashes), and the two buds paired to my phone as one set. Subsequent investigation showed the "new" left earbud was worn and drained much faster than the right, described at the end.
 
 No Bluetooth, no patched app and no proxy. Just the case, a USB-C data cable and a Windows PC.
 
